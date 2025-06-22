@@ -12,3 +12,7 @@ crunchyroll.rbxm
 
 # Mirrors
 benches/mirrors
+
+# Roblox typescript
+node_modules
+out

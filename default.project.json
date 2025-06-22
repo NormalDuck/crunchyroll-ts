@@ -2,6 +2,6 @@
 	"name": "crunchyroll",
 	
 	"tree": {
-		"$path": "src"
+		"$path": "out"
 	}
 }
